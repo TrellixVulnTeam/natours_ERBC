@@ -1,0 +1,9 @@
+{
+  "identifier" : "01B19252-B7EF-4BFF-A398-0F0E17DEB77E",
+  "ignoredFilePatterns" : [
+    "node_modules"
+  ],
+  "remotePath" : "\/iamoweng\/natours",
+  "server" : "iamOwenG",
+  "usesPublishing" : true
+}
