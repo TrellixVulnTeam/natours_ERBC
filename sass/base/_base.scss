@@ -1,0 +1,19 @@
+*,
+*::before,
+*::after {
+	margin: 0;
+	padding: 0;
+	box-sizing: inherit;
+	/* Better practice to force every element in inherit this property - it'll get it from the body unless updated otherwise */
+}
+
+html {
+    // This defines what one 1rem is
+	font-size: 62.5%;
+}
+
+body {
+
+	box-sizing: border-box;
+	/* Means that any boxes don't change size based on padding and margin. i.e. the width and height properties are exactly what you get. */
+}
